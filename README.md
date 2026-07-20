@@ -29,6 +29,8 @@ sistema_recomendaciones/
 
 ## 🚀 Instalación
 
+> Nota: este proyecto también está disponible en GitHub con el nombre de la organización y el repositorio indicado en la sección superior.
+
 ```bash
 # Clonar el repositorio
 git clone <url-del-repo>
